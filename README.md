@@ -28,7 +28,7 @@ ruby app.rb
 
 ## Credits
 
-Created by Mark Monteiro: markmonteiro.info
+Created by Mark Monteiro: [markmonteiro.info](markmonteiro.info)
 
 ## License
 
