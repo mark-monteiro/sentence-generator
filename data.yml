@@ -1,0 +1,406 @@
+nouns:
+  - legitimation of
+  - affirmation of
+  - socialization of
+  - ideology of
+  - experience of
+  - idea of
+  - renunciation of
+  - nostalgia for
+  - rhetoric of
+  - culture of
+  - differentiation of
+  - formation of
+  - discourse of
+  - poetics of
+  - eroticization of
+  - sublimation of
+  - expression of
+  - fragmentation of
+  - systemization of
+  - totalization of
+  - realization of
+  - exploitation of
+  - delegitimization of
+  - expropriation of
+  - appropriation of
+  - invention of
+  - (re)invention of
+  - representational validity of
+  - engendering of
+  - authentication of
+  - divisibility of
+  - disintegration of
+  - reintegration of
+  - conceptual logic of
+  - internal structure of
+  - fundamental principle of
+  - politics of
+  - reading of
+  - writing of
+  - hermeneutic of
+  - eroticization of
+  - fiction of
+  - historicization of
+  - marketing of
+  - invention of
+  - ideology of
+  - discourse of
+  - logic of
+  - (re)formation of
+  - de-eroticization of
+  - reinscription of
+  - emergence of
+  - illusion of
+  - fantasy of
+  - linguistic construction of
+  - desacrilization of
+  - project of
+  - cooptation of
+  - epistemology of
+  - figuralization of
+  - necessary but perhaps impossible notion of
+  - unanalyzed arbitrariness of
+  - disarticulation of
+  - fallacy of
+  - denomination of
+  - marketing of
+  - phenomenalism of
+  - imposition of
+  - assertion of
+  - teleology of
+
+modifiers:
+  - communicative interaction
+  - localized small-group cultures
+  - the gendered body
+  - post-capitalist hegemony
+  - empowerment
+  - representational familiarity
+  - the real
+  - the preprofessional
+  - unsituated knowledge
+  - narrative authenticity
+  - autonomous phenomena
+  - self-referential systems
+  - the master-slave dialectic
+  - process
+  - communicative rationality
+  - post-Jungian analysis
+  - disciplinary boundaries
+  - print culture
+  - the parent-child dynamic
+  - the means of production
+  - semantic drift
+  - the nation-state
+  - the implied reader
+  - cultural reproduction
+  - the specular economy
+  - system
+  - early modern textuality
+  - difference
+  - conceptual drift
+  - paratextual apparatus
+  - early modern sexuality
+  - the tension between nature and history
+  - power
+  - normative value(s)
+  - patriarchal grammar
+  - pop culture
+  - high' culture
+  - the eclectic
+  - collecting as a cultural practice
+  - the culture industry
+  - the image
+  - civil society
+  - anxiety
+  - post-Hegelian criticism
+  - the Other
+  - desire
+  - indeterminacy
+  - post-Foucaultian sexuality
+  - DeMan's aesthetic ideology
+  - exchange value
+  - the anesthesia of forgetting
+  - panopticism
+  - praxis
+  - the prison, the hospital, and the school
+  - pedagogical institutions
+  - the natural
+  - a radical alterity
+  - disinterested observation
+  - an anthropocentric history
+  - classification
+  - linguistic transparency
+  - history as such
+  - commodified objects
+  - corporeality
+  - structural identity
+  - the unnamed
+  - factual knowledge
+  - the literary canon
+  - the public sphere
+  - teleological narrative
+  - the hidden
+  - agency
+  - autonomous selfhood
+  - the proper-name effect
+  - the enigmatic
+  - the gaze
+  - synesthesia
+  - syntactical certainty
+  - exoticism
+  - narrative communication
+  - narrative qua narrative
+  - (self)referentiality
+  - materiality
+  - metaphoric exchange
+  - narrative sequence
+  - metaphoric substitution
+  - romantic inwardness
+  - empirical literalism
+  - humanist organicism
+  - binary opposition
+  - the materialist architectonic
+  - the abyss
+  - biohistory
+  - millennial hedonism
+  - enlightenment rationalism
+  - the unspoken
+  - the marginal
+  - the unknown
+  - the market
+  - the private
+  - (dis)simulation
+
+verb_phrases:
+  - goes along with
+  - is connected to
+  - provides a context for
+  - works toward
+  - carries with it
+  - comes from
+  - asks to be read as
+  - may be taken as
+  - is comparable with
+  - may be regarded as
+  - should suggest
+  - is, in the most fundamental sense,
+  - is closely allied with
+  - can be subsumed under
+  - may be parsed as
+  - is indistinguishable from
+  - can easily be made compatible with
+  - does not undermine
+  - recapitulates
+  - reaffirms
+  - is associated with
+  - reflects
+  - is often found in juxtaposition with, if not in direct opposition to,
+  - is synonymous with
+  - fails to penetrate the myths obscuring
+  - highlights
+  - reflects
+  - (re)embodies
+  - interrogates
+  - fosters
+  - may be seen as
+  - substantiates
+  - is, and yet is not,
+  - can be ultimately defined as
+  - pervades
+  - replays (in parodic form)
+  - thematizes
+  - actively utilizes
+  - reinterprets
+  - parallels
+  - focuses attention on
+  - rehearses
+  - reinvents itself as
+  - invests itself in
+  - questions the very notion of
+  - functions as the conceptual frame for
+  - reinforces
+  - is symptomatic of
+  - is conducive to
+  - is in effect identical to
+  - revisits
+  - chronicles
+  - is often confused with
+  - is strictly congruent with
+  - allegorizes
+  - gestures toward
+  - is homologous with
+  - instantiates
+  - opens a space for
+  - generates
+  - performs
+  - displaces
+  - specifies
+  - has recently been consecrated as
+
+# book_refs:
+#   - seven hundred and twenty-three page monograph on
+#   - masterly but lengthy exposition of
+#   - stringent treatment of
+#   - scant paragraph on
+#   - ironic reference to
+#   - suggestive observation concerning
+#   - intellectual flirtation with
+#   - clever parody of
+#   - lengthy exploration of
+#   - tortured obsession with
+#   - barely disguised disregard for
+#   - posthumously published fragment on
+#   - long-awaited revision of his 1972 essay on
+#   - highly allusive work on
+#   - pithy phrase concerning
+#   - lukewarm affirmation of
+#   - cautious appraisal of
+#   - inexplicable volte-face concerning
+#   - tenacious reiteration of his earlier position on
+#   - highly ambitious exposition of
+#   - exhaustive analysis of
+#   - intemperate yet persuasive attack on
+#   - graphic description of
+#   - classic essay on
+#   - formidable treatise on
+#   - dense investigation of
+#   - modern reinterpretation of
+#   - seemingly groundbreaking paper on
+#   - stunning disquisition on
+#   - insipid but useful investigation of
+#   - useful restatement of
+#   - touching yet misguided attempt at reviving interest in
+#   - informal sketch of
+#   - ambiguous yet canny presentation of
+#   - demonstration of
+#   - breakdown of
+#   - eccentric interpretation of
+#   - thought-provoking inquiry into
+#   - critique of
+#   - recently published report on
+#   - meditation on
+#   - mocking allusion to
+#   - ambitious survey of
+#   - thoughtful reevaluation of
+#   - careful dissection of
+#   - loosely organized musing on
+#   - carefully researched summary of
+#   - inspection of current critical thinking concerning
+#   - wide-ranging study of
+#   - somewhat childish parody of
+#   - ambiguous reaffirmation of
+#   - possibly superfluous addition to the voluminous literature on
+#   - somewhat tortuous argument concerning
+#   - unpublished but widely circulated conference paper on
+#   - hastily published paper on
+#   - apparently harmless jeu d'esprit concerning
+#   - guarded remark concerning
+#   - excruciatingly detailed analysis of
+#   - curiously reticent comment on
+#   - often ridiculed treatise on
+#   - paradoxical yet not contradictory work on
+
+# review_verbs:
+#   - is timely
+#   - is welcome
+#   - is a cause for concern
+#   - is somewhat naive
+#   - is disturbing
+#   - must be a model for future work in the field
+#   - stands as a monument to the scholarly concerns of ten years ago
+#   - is undertheorized
+#   - is insufficiently problematized
+#   - cannot be applied to the lyric
+#   - is important
+#   - is fundamentally unsound
+#   - is ultimately parasitic on the work of less well-known scholars
+#   - is fundamentally sound
+#   - is ill-timed
+#   - is a crucial contribution to the field
+#   - should resolve the disputes over terminology that have plagued the field since its inception
+#   - confuses rhetoric with semantics
+#   - confuses semantics with rationality
+#   - contributes little that is new
+#   - contributes much that is new
+#   - does much to further understanding of this important topic
+#   - does little to further our understanding of this important topic
+#   - brings to light few new facts
+#   - suffers from its author's almost complete ignorance of Latin
+#   - suffers from its author's almost complete ignorance of the Frankfurt school
+#   - should be applied to the study of Joyce
+#   - is fortuitous
+#   - is at heart a jejune redaction of the early Marx
+#   - gains little from its frequent digressions into the minutiae of Joycean biographical scholarship
+#   - is marked by a refusal of 'style
+#   - will meet with a cool reception
+#   - represents a belated form of intellectual triage
+#   - can never supplant the work of the Frankfurt school
+#   - effects a resolution of this complicated matter
+#   - achieves a measure of originality
+#   - cannot easily be pigeonholed as a contribution to any of the dominant critical movements
+#   - defies any attempts to classify it
+#   - explores with scathing depth and honesty the flaws of the field as a whole
+#   - flays the sacred cows of the Frankfurt school
+#   - revives the often neglected field of poststructuralist semantics
+#   - presents an all-inclusive portrait of the latter category while devoting only superficial attention to the former
+#   - might be profoundly irritating in the hands of a less skilled writer
+#   - might be less irritating in the hands of a more skilled writer
+#   - is a tribute to the author's diligence, if not to his judgment
+#   - resituates Casaubon's argument in a linguistic context
+#   - offers surprising insights
+#   - reorients the field toward a more theory-driven perspective
+#   - is sure to be widely imitated
+#   - has surely exhausted any interest the subject may originally have had
+#   - barely conceals apologetic motives
+#   - is pregnant with meaning, but never quite delivers
+#   - ultimately does not hold water
+#   - is a masterpiece of unreductive exactness
+#   - throws out the metatextual baby with the textual bathwater
+#   - is neither a survey, nor an expository work in the familiar sense, but a critical polyphony
+#   - reintroduces the work of Zapp, who for too long has been casually pocketed as the field's tame theoretical authority
+#   - is exceptionally resistant to summary, as befits its project
+#   - is unconvincing
+#   - loosens the notion of what it might mean to be systematic
+#   - narrowly avoids withdrawal into conscious unreadability
+#   - draws attention to the irreconcilable difference between languages and idioms
+#   - deserves praise for its attention to detail
+#   - throws out the metatextual baby with the textual bathwater
+#   - suffers from all the disadvantages that it inherits from its intellectual predecessors
+#   - demands a break with the organization of 'the book' as we know it
+#   - might seem a project fraught with risks -- among them presumptuousness, imprecision, and mystification
+#   - risks being merely polemical
+#   - reformulates the underlying problems to which my own work points, thus raising other, more important issues
+#   - is based on an undernuanced account of narrative
+#   - reminds us that the moment of unadulterated new historicism has long since passed
+#   - suffers from an idiosyncratic and ultimately unsatisfying reading of Kant
+#   - leads readers competently enough down the well-trodden paths of rhetorical criticism
+#   - is an inevitable consequence of and indeed an integral part of Kinbotes's influence in the field
+#   - would benefit from a more rigorous definition of its terms
+#   - addresses a surprisingly underexamined subject
+#   - perhaps overstates the influence of Kinbote
+#   - betrays its origins as an insufficiently revised dissertation
+#   - is sure to redefine the boundaries of the field
+#   - ultimately does nothing to shift the boundaries of a field that has been theoretically moribund for fifteen years
+#   - is easier to describe than to read, and even easier to throw away
+#   - has little substance
+#   - is sure to meet with a warm reception
+#   - avoids offending his readers but risks boring them
+#   - at least achieves the doubtful virtue of innocuousness
+#   - illustrates the intellectual depths to which the field has sunk
+#   - assures him his place in the pantheon of younger post-Foucaultian critics inspired by Kinbote
+#   - addresses an important subject but forgets to mail it, if I may permit myself a slight witticism
+#   - adds one more episode to his unacknowledged and unconsummated love affair with metaphysics
+#   - deserves to be better known
+#   - deserves the obscurity into which it has fallen
+#   - is well known, but perhaps not well understood
+#   - is frequently quoted without attribution
+#   - is not without merit
+#   - is not without its supporters even today
+#   - is not entirely lacking in critical insight
+#   - is not borrowed wholesale from Passmore, although admittedly the influence is there
+#   - testifies to his considerable perspicuity
+#   - may seem impressive to the uninitiated
+#   - might have been enriched by a careful reading of Heidegger
+#   - can hardly be a surprise to those familiar with his work
